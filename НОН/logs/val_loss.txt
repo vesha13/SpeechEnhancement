@@ -1,8 +1,0 @@
-tensor(0.0455)
-tensor(0.0298)
-tensor(0.0466)
-tensor(0.0753)
-tensor(0.0614)
-tensor(0.0676)
-tensor(0.0795)
-tensor(0.0948)

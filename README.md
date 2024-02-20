@@ -4,6 +4,7 @@ The main idea is to fine tune existing pre-trained MetricGAN+ model from speechb
 
 Fine tunning is made on custom data.
 Main methods/instruments are: 
+-  PESQ score (success measurement)
 -  PyTorch
 -  Metric Generative adversarial networks (MetricGAN)
 -  Spectral Masking

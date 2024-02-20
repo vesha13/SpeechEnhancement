@@ -1,0 +1,322 @@
+{
+    "try-01.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-01.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-01.wav",
+        "length": 2786
+    },
+    "try-02.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-02.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-02.wav",
+        "length": 2239
+    },
+    "try-03.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-03.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-03.wav",
+        "length": 4754
+    },
+    "try-04.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-04.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-04.wav",
+        "length": 2388
+    },
+    "try-05.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-05.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-05.wav",
+        "length": 2420
+    },
+    "try-06.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-06.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-06.wav",
+        "length": 3038
+    },
+    "try-07.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-07.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-07.wav",
+        "length": 1705
+    },
+    "try-08.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-08.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-08.wav",
+        "length": 3696
+    },
+    "try-09.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-09.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-09.wav",
+        "length": 3696
+    },
+    "try-10.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-10.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-10.wav",
+        "length": 4207
+    },
+    "try-11.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-11.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-11.wav",
+        "length": 3013
+    },
+    "try-12.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-12.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-12.wav",
+        "length": 2342
+    },
+    "try-13.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-13.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-13.wav",
+        "length": 5277
+    },
+    "try-14.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-14.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-14.wav",
+        "length": 3525
+    },
+    "try-15.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-15.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-15.wav",
+        "length": 1850
+    },
+    "try-16.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-16.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-16.wav",
+        "length": 1950
+    },
+    "try-17.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-17.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-17.wav",
+        "length": 2010
+    },
+    "try-18.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-18.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-18.wav",
+        "length": 1367
+    },
+    "try-19.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-19.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-19.wav",
+        "length": 2673
+    },
+    "try-20.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-20.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-20.wav",
+        "length": 2151
+    },
+    "try-21.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-21.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-21.wav",
+        "length": 1930
+    },
+    "try-22.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-22.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-22.wav",
+        "length": 3075
+    },
+    "try-23.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-23.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-23.wav",
+        "length": 2613
+    },
+    "try-24.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-24.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-24.wav",
+        "length": 2050
+    },
+    "try-25.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-25.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-25.wav",
+        "length": 2191
+    },
+    "try-26.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-26.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-26.wav",
+        "length": 2311
+    },
+    "try-27.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-27.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-27.wav",
+        "length": 3317
+    },
+    "try-28.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-28.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-28.wav",
+        "length": 2975
+    },
+    "try-29.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-29.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-29.wav",
+        "length": 2553
+    },
+    "try-30.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-30.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-30.wav",
+        "length": 2131
+    },
+    "try-31.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-31.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-31.wav",
+        "length": 1266
+    },
+    "try-32.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-32.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-32.wav",
+        "length": 2231
+    },
+    "try-33.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-33.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-33.wav",
+        "length": 1407
+    },
+    "try-34.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-34.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-34.wav",
+        "length": 844
+    },
+    "try-35.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-35.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-35.wav",
+        "length": 3035
+    },
+    "try-36.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-36.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-36.wav",
+        "length": 1608
+    },
+    "try-37.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-37.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-37.wav",
+        "length": 1306
+    },
+    "try-38.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-38.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-38.wav",
+        "length": 4443
+    },
+    "try-39.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-39.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-39.wav",
+        "length": 2211
+    },
+    "try-40.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-40.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-40.wav",
+        "length": 3035
+    },
+    "try-41.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-41.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-41.wav",
+        "length": 1769
+    },
+    "try-42.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-42.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-42.wav",
+        "length": 4141
+    },
+    "try-43.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-43.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-43.wav",
+        "length": 1749
+    },
+    "try-44.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-44.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-44.wav",
+        "length": 3096
+    },
+    "try-45.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-45.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-45.wav",
+        "length": 3136
+    },
+    "try-46.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-46.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-46.wav",
+        "length": 944
+    },
+    "try-47.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-47.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-47.wav",
+        "length": 3799
+    },
+    "try-48.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-48.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-48.wav",
+        "length": 4885
+    },
+    "try-49.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-49.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-49.wav",
+        "length": 6011
+    },
+    "try-50.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-50.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-50.wav",
+        "length": 4121
+    },
+    "try-51.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-51.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-51.wav",
+        "length": 4101
+    },
+    "try-52.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-52.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-52.wav",
+        "length": 3478
+    },
+    "try-53.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-53.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-53.wav",
+        "length": 4161
+    },
+    "try-54.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-54.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-54.wav",
+        "length": 2955
+    },
+    "try-55.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-55.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-55.wav",
+        "length": 3236
+    },
+    "try-56.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-56.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-56.wav",
+        "length": 1909
+    },
+    "try-57.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-57.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-57.wav",
+        "length": 1869
+    },
+    "try-58.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-58.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-58.wav",
+        "length": 3196
+    },
+    "try-59.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-59.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-59.wav",
+        "length": 3498
+    },
+    "try-60.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-60.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-60.wav",
+        "length": 2050
+    },
+    "try-61.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-61.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-61.wav",
+        "length": 2754
+    },
+    "try-62.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-62.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-62.wav",
+        "length": 1970
+    },
+    "try-63.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-63.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-63.wav",
+        "length": 1568
+    },
+    "try-64.wav": {
+        "noisy_path": "C:/Users/vesha/PycharmProjects/pC/HOH/noisy\\try-64.wav",
+        "denoised_path": "C:/Users/vesha/PycharmProjects/pC/HOH/clean\\try-64.wav",
+        "length": 1285
+    }
+}

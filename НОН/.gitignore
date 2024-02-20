@@ -1,0 +1,6 @@
+clean/
+noisy/
+.conda/
+/.ipynb_checkpoints
+lib/
+libs/

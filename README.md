@@ -1,5 +1,7 @@
 This code's aim is Speech Enhancement and Denoising Audio For Hard-of-Hearing People In Universities.
 -
+*The article is being published so some files and info are not avaliable
+
 The main idea is to fine tune existing pre-trained MetricGAN+ model from speechbrain (https://speechbrain.github.io/; https://github.com/speechbrain/speechbrain).
 
 Fine tunning is made on custom data.

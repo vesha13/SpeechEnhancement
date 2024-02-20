@@ -4,3 +4,6 @@ noisy/
 /.ipynb_checkpoints
 lib/
 libs/
+val_pesq/
+origin_pesq/
+
